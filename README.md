@@ -11,7 +11,7 @@ This project analyzes global development data using the Gapminder dataset. It fo
 
 ## 📂 Project Structure
 - notebook/ → Jupyter Notebook with full analysis  
-- reports/ → Exported visualizations (optional)  
+- reports/ → Exported visualizations
 
 ## 📊 Key Insights
 - Higher GDP per capita is strongly associated with higher life expectancy  
@@ -32,3 +32,7 @@ This project analyzes global development data using the Gapminder dataset. It fo
 - Log-scale analysis for better distribution understanding  
 - Geographic visualization using world maps  
 - Multi-dimensional analysis (GDP, life expectancy, population) 
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/haneeshtadepalli/)   
+- 📧 Email: haneeshtadepalli@gmail.com
