@@ -31,12 +31,4 @@ This project analyzes global development data using the Gapminder dataset. It fo
 - Interactive bubble charts with animation over time  
 - Log-scale analysis for better distribution understanding  
 - Geographic visualization using world maps  
-- Multi-dimensional analysis (GDP, life expectancy, population)  
-
-## 🖼️ Preview
-(Add screenshots or GIFs of your visualizations here)
-
-## 🚀 How to Run
-1. Install required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn plotly
+- Multi-dimensional analysis (GDP, life expectancy, population) 
